@@ -28,4 +28,5 @@ I will not be merging any PR related to index.html or styles.css but other PR th
 
 Repo is not done yet
 
+
 [Back to Top](#set-of-marker-colors-template)
