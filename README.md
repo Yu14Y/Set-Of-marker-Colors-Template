@@ -26,7 +26,8 @@ I will not be merging any PR related to index.html or styles.css but other PR th
 
 # Screenshots
 
-Repo is not done yet
+![Screen shot of the markers](image.png)
+
 
 
 [Back to Top](#set-of-marker-colors-template)
